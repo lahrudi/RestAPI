@@ -12,11 +12,10 @@ Use the following path to view the documentation produced by open-api and
 swagger use the following path, after the execution
 #### http://localhost:8080/documentation.html
 
-<img alt="alt_text" width="800" height="610" src="Swagger_Main_page.png" />  
+<img alt="alt_text" width="800" height="610" src="images/Swagger_Main_page.png" />  
 
-<img alt="alt_text" width="800" height="610" src="Swagger_another_page.png" />  
+<img alt="alt_text" width="800" height="610" src="images/Swagger_another_page.png" />  
 
-
-<img alt="alt_text" width="800" height="610" src="docker.png" />  
+<img alt="alt_text" width="800" height="610" src="images/docker.png" />  
 
 #### The Server will run on http://localhost:8080 address
